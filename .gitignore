@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
-frequencies-frcowvec.csv
-glawinette-series.csv
+*.txt
+*.csv
 AOCPosetBuilder.jar
-lemma-A-pos-bow.txt
