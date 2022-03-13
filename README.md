@@ -1,8 +1,8 @@
 # File name meaning
-- `D_*`: Démonette without additional edge pattern from Glawinette.
+- `D_*`: Démonette without additional information from Glawinette.
 
 ![without glawinette](edge-D.png)
-- `DG_*`: Démonette with additional edge pattern from Glawinette.
+- `DG_*`: Démonette with additional information from Glawinette.
 
 ![with glawinette](edge-DG.png)
 
