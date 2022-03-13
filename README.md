@@ -1,8 +1,10 @@
 # IPYNB file name meaning
 - `D-*.ipynb`: Démonette without additional edge pattern from Glawinette
-![without glawinette](edge-D.dot)
+
+![without glawinette](edge-D.png)
 - `DG-*.ipynb`: Démonette with additional edge pattern from Glawinette
-![with glawinette](edge-DG.dot)
+
+![with glawinette](edge-DG.png)
 
 # Files to be prepared
 - Raw csv files, available in [MyCore](https://mycore.core-cloud.net/index.php/s/tFSrR5f7ZkVFwj7/authenticate), folder `Résultats/MigrationRessources/VersionReformateePlateforme_SansSemantique`. Put all csv in `raw_csv_files` folder.
