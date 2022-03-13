@@ -2,4 +2,4 @@
 __pycache__/
 *.txt
 *.csv
-AOCPosetBuilder.jar
+*.jar
