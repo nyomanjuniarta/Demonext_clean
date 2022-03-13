@@ -18,7 +18,14 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
     # Print New Line on Complete
     if iteration == total: 
         print()
-        
+
+def category_shortening(cat):
+    if cat != 'Num' and cat[0] == 'N':
+        if cat[1] == 'p':  # nom propre
+            return 'Np'
+        return 'N'  # nom
+    return cat        
+
 def list2lists(input_tr):
     ret_tr = list()
     tr = list()
