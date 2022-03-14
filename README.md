@@ -23,3 +23,4 @@
 # Software requirements
 - [NetworkX](https://networkx.org/), Python package for graph manipulation.
 - [Graphviz](https://graphviz.org/), for visualizing a graph in a DOT files.
+- pydot
